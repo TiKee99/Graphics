@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace INFOGR2022Template
 {
-    class Class1
+    class Camera
     {
     }
 }
